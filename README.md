@@ -26,7 +26,7 @@ L’objectif était de mettre en place une **infrastructure Linux complète** en
 
 ## Services configurés  
 
-### éseau & Infrastructure  
+### Réseau & Infrastructure  
 - **DNS (Bind)**  
 - **Serveur Web (Apache)**  
 - **Base de données (MariaDB)**  
