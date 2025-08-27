@@ -1,0 +1,18 @@
+$TTL 86400
+@   IN  SOA ns1.linuxserver.lan. admin.linuxserver.lan. (
+        2025082701 ; Serial
+        3600    ; Refresh
+        1800    ; Retry
+        1209600 ; Expire
+        86400 ) ; Minimum TTL
+
+@       IN  NS  ns1.linuxserver.lan.
+@       IN  A   10.42.0.231
+ns1     IN  A   10.42.0.231
+clienttest    IN    A    10.42.0.231
+polo    IN    A    10.42.0.231
+client44    IN    A    10.42.0.231
+theo    IN    A    10.42.0.231
+max    IN    A    10.42.0.231
+benoit    IN    A    10.42.0.231
+malaise    IN    A    10.42.0.231

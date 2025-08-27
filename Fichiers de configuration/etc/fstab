@@ -1,0 +1,6 @@
+#
+UUID=262237e1-363f-446e-9ae5-fec571a21e27     /           xfs    defaults,noatime  1   1
+UUID=4C68-05A7        /boot/efi       vfat    defaults,noatime,uid=0,gid=0,umask=0077,shortname=winnt,x-systemd.automount 0 2
+UUID=f557ea71-379c-4ce9-8316-0f4764efe870 /srv/nfs/share ext4 defaults,usrquota,grpquota 0 0
+UUID=583ef26d-ccdb-4e16-a136-97fa51d9735c /var/www ext4 defaults,usrquota,grpquota 0 0
+UUID=7ce2ced7-7668-4961-b7f1-180e56e643c9 /backup ext4 defaults 0 0
