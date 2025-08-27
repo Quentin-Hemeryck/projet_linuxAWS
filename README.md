@@ -18,8 +18,7 @@ L’objectif était de mettre en place une **infrastructure Linux complète** en
 ## Structure du dépôt  
 - **Scripts/** – Scripts Bash pour l’installation, la configuration et l’automatisation des services  
 - **Client/** – Scripts destinés à la configuration et à la gestion des machines clientes
-- **Fichiers de configuration/**  
-  Contient un export des fichiers de configuration essentiels du projet :
+- **Fichiers de configuration/** - Contient un export des fichiers de configuration essentiels du projet :
   - `etc/` : SSH, Apache, Samba, FTP, DNS, MariaDB, SELinux, Firewall, Fail2ban, NTP, etc.
   - `var/named/` : fichiers de zones DNS (`linuxserver.lan.zone`, `0.42.10.rev`).
 
